@@ -1,3 +1,5 @@
+pytesseract == 0.2.4
+scikit-image == 0.14.0
 image2text == 0.1.0
 wordcloud == 1.5.0
 
