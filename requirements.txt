@@ -18,4 +18,4 @@ numpy == 1.15.0
 
 # summarize-test.py: 1
 # wordcloud-test.py: 1
-requests == 2.19.1
+requests>=2.20.0
